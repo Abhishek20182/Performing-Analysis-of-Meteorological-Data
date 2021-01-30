@@ -43,7 +43,7 @@ Perform Data Cleaning, Perform Analysis for Testing the (given) Hypothesisand fi
 * Daily Summary
 
 ## Results: <a name="results"></a>
-The main findings of the code can be found at the post available [here](https://betu-abhishek20182.medium.com/performing-analysis-of-meteorological-data-c4db81e25ee2)
+The main findings of the code can be found at the post available [here](https://betu-abhishek20182.medium.com/performing-analysis-of-meteorological-data-c4db81e25ee2) or [here](https://www.kaggle.com/abhishek20182/performing-analysis-of-meteorological-data)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Must give credit to Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/muthuj7/weather-dataset).
