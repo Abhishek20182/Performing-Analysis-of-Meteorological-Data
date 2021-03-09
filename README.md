@@ -18,7 +18,7 @@ You need to be able to work in a Jupyter Notebook on your computer. The followin
 - jupyterthemes
 
 ## Objective: <a name="obj"></a>
-Perform Data Cleaning, Perform Analysis for Testing the (given) Hypothesisand finally put-forth your conclusion by writing a blog article.
+Perform Data Cleaning, Perform Analysis for Testing the (given) Hypothesis and finally put-forth your conclusion by writing a blog article.
 
 ## Dataset Insight: <a name="di"></a>
 
